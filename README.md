@@ -20,3 +20,7 @@ __Usage:__
 __USE__:  
 *python* *img.py*  
 *python* *img_uni.py*
+
+__NOTE:__
+ The production of animated ASCII output is still in development.
+ 
