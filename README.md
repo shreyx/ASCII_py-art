@@ -13,5 +13,7 @@ An improvement over the 'img.py' script
 					
 ##### To Print Usage Help of the scripts
 
-use:	python img.py
-		python img_uni.py
+__USE__:  
+*python img.py  
+python img_uni.py
+*
